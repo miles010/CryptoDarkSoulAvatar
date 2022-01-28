@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc0f4c6574e5841a30a0c2f93b9d73ab72d83c880",
+  "SCAN_LINK": "https://https://mumbai.polygonscan.com/tx/0xcabc2e1ece4c213e1e2c82d5d4e30ebd0120828715abd8e7dfa1de26b2c0ad74",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "crypto dark soul avatar",
+  "SYMBOL": "CDSANFT",
+  "MAX_SUPPLY": 4500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/crypto-dark-soul-avatar",
+  "SHOW_BACKGROUND": true
+}
